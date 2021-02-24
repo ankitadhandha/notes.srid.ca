@@ -11,7 +11,7 @@ To solve that, I decided to just switch to [Prism](https://prismjs.com/) to let 
 
 Incidentally this change now allows the user to swap out their syntax hilighting library by adding it to their `head.html`.
 
-**Documentation**: https://neuron.zettel.page/syntax-highlighting.html
+**Documentation**: https://neuron.zettel.page/syntax-highlighting
 
 **Breaking change?**: If you use `head.html`, yes, you must add Prism JS and CSS manually; as neuron only adds the CSS classes to the code blocks.
 
