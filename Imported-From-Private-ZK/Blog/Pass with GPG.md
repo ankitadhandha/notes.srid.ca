@@ -10,7 +10,7 @@ date: 2021-01-15
 
 `pass` must be installed along `gpg`. On #[[NixOS]]:
 
-```
+```nix
 {
     # Must restart computer, otherwise you may hit this bug:
     # https://github.com/NixOS/nixpkgs/issues/35464#issuecomment-383894005
@@ -31,20 +31,20 @@ date: 2021-01-15
 
 Generate a GPG key
 
-```
+```sh
 gpg --full-gen-key
 ```
 
 Initialize the password store, along with git:
 
-```
+```sh
 pass init <email>
 pass git init
 ```
 
 Test:
 
-```
+```sh
 pass insert test/example.org
 pass show test/example.org
 pass git push
@@ -54,13 +54,13 @@ pass git push
 
 Since I already use [keybase], I store my GPG key securely in [kbfs](https://book.keybase.io/docs/files), and then import it on other computers.
 
-```
+```sh
 gpg --export-secret-keys --armor "Sridhar Ratnakumar" > ~/keybase/private/srid/gpg/me.asc
 ```
 
 To import from another device:
 
-```
+```sh
 gpg --import ~/keybase/private/srid/gpg/me.asc
 gpg --edit-key srid@srid.ca # and run `trust`
 ```

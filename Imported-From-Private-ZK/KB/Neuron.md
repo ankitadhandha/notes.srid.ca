@@ -7,7 +7,3 @@ slug: neuron
 ## Blog posts
 
 [[z:zettels?tag=blog/neuron&timeline]]#
-
-## Micro updates
-
-[[z:zettels?tag=micro/neuron&timeline]]#
