@@ -1,15 +1,11 @@
-# Srid's microblog 🐜
+# Sridhar Ratnakumar
 
-'tis like twitter, but better. Read more on [[About this site]]#.
-
-## Topics
-
-[[z:zettels?tag=topic]]#
+Welcome. 
 
 ## Recent microposts
 
-[[z:zettels?timeline]]
+[[z:zettels?tag=micro/**&timeline]]
 
-## Pages of interest
+## Recent blog posts
 
-- [[In the forefront of my mind]]# 
+[[z:zettels?tag=blog/**&timeline]]

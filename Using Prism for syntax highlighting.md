@@ -1,8 +1,9 @@
 ---
 date: 2021-02-22T23:39
+tags: [micro/neuron]
 ---
 
-Up until today #Neuron used Pandoc's [skylighting] to do syntax highlighting statically, however skylighting supports very limited number of languages[^lang].
+Up until today Neuron used Pandoc's [skylighting] to do syntax highlighting statically, however skylighting supports very limited number of languages[^lang].
 
 [skylighting]: https://github.com/jgm/skylighting
 

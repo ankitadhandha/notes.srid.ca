@@ -1,5 +1,6 @@
 ---
 date: 2021-02-23T16:35
+tags: [micro/neuron]
 ---
 
 Just pushed a change that enables pretty URLs in neuron generated sites. This already works in GitHub Pages (`/foo` returns `/foo.html`). #Neuron had to be changed to make generated HTML link to `/foo` instead of `/foo.html`. This behaviour is controlled by:
