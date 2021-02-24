@@ -1,11 +1,16 @@
 # Sridhar Ratnakumar
 
-Welcome. 
+![avatar][avatar]{#avatar .ui .right .floated .tiny .circular .image}
 
-## Recent microposts
+Welcome to my homepage and microblog. You may contact me on Telegram at [t.me/sridca](https://t.me/sridca). To learn about my professional background, consult my [GitHub](https://github.com/srid) and [résumé][resume].
 
-[[z:zettels?tag=micro/**&timeline]]
+[avatar]: https://srid.keybase.pub/me.jpeg
+[resume]: https://srid.keybase.pub/resume.pdf
 
 ## Recent blog posts
 
 [[z:zettels?tag=blog/**&timeline]]
+
+## Microblog
+
+[[Srid's microblog]]#
