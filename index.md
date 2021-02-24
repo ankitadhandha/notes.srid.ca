@@ -11,6 +11,6 @@ Welcome to my homepage and microblog. You may contact me on Telegram at [t.me/sr
 
 [[z:zettels?tag=blog/**&timeline]]
 
-## Microblog
+## Recent microposts from [[Srid's microblog]]#
 
-[[Srid's microblog]]#
+[[z:zettels?tag=micro/**&timeline]]
