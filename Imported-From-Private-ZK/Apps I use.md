@@ -2,18 +2,19 @@
 slug: apps
 ---
 
-Type                 | App                                        | Why
----------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------
-Email                | [ProtonMail](https://protonmail.com/)      | DeGoogle
-File Sync            | Syncthing                                  | p2p Dropbox alternative
-File Storage         | ProtonDrive                                | DeGoogle; encryption-at-rest
-File Sharing         | [IPFS]                                     | p2p[^ipfspinning]
-Chat                 | [Element]                                  | [decentralized moderation]
-Browser              | [Brave](https://brave.com/)                | DeGoogle; chromium-based; [end-to-end encrypted sync][brave-sync]; [decentralized-love](https://brave.com/ipfs-support/)
-Password Manager     | [[Pass with GPG]]                        | plain-text; git; gpg
-OS                   | [[NixOS]] Linux  + GNOME |
-Editor / IDE         | [[VSCode]]                                     | UX; remote editing; extensions
-Programming Language | [[Haskell]], etc.                              | [statically-typed; FP](https://wiki.haskell.org/Why_Haskell_matters)
+Type                 | App                                   | Why
+---------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------
+Email                | [ProtonMail](https://protonmail.com/) | DeGoogle
+File Sync            | Syncthing                             | p2p Dropbox alternative
+File Storage         | ProtonDrive                           | DeGoogle; encryption-at-rest
+File Sharing         | [IPFS]                                | p2p[^ipfspinning]
+Chat                 | [Element]                             | [decentralized moderation]
+Browser              | [Brave](https://brave.com/)           | DeGoogle; chromium-based; [end-to-end encrypted sync][brave-sync]; [decentralized-love](https://brave.com/ipfs-support/)
+Password Manager     | [[Pass with GPG]]                     | plain-text; git; gpg
+OS                   | [[NixOS]] Linux  + GNOME              |
+Editor / IDE         | [[VSCode]]                            | UX; remote editing; extensions
+Note taking          | [[Neuron]] & [[emanote Project]]      | Open source; future-proof
+Programming Language | [[Haskell]], etc.                     | [statically-typed; FP](https://wiki.haskell.org/Why_Haskell_matters)
 
 [IPFS]: https://ipfs.io/
 [Element]: https://element.io/

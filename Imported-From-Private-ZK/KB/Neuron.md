@@ -7,3 +7,7 @@ slug: neuron
 ## Blog posts
 
 [[z:zettels?tag=blog/neuron&timeline]]#
+
+## Microposts
+
+[[z:zettels?tag=micro/neuron&timeline]]#
