@@ -1,8 +1,9 @@
 ---
 date: 2021-02-26T14:17
+tags: [micro]
 ---
 
-# Satellite social network
+[Satellite](https://satellite.earth) looks promising, as an alternative to traditional social media. Read [introduction](https://satellite.earth/pub/@satellite:welcome-to-satellite), and [reddit discussion](https://old.reddit.com/r/IntellectualDarkWeb/comments/lror9z/i_created_a_new_open_source_social_platform/).
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+![](https://ipfs.io/ipfs/QmTTc7j2AqgihsMBnMqDfUo3XjYWAQLPJn7vgi2MyYpzvw?filename=2021-02%20satellite-echoc.png){.ui .large .centered .image}
 
