@@ -8,5 +8,7 @@ slug: satellite.earth
 
 Interested in trying out? Use Brave web browser and create a local wallet. 
 
+Here's my profile: https://satellite.earth/@srid
+
 ![](https://ipfs.io/ipfs/QmTTc7j2AqgihsMBnMqDfUo3XjYWAQLPJn7vgi2MyYpzvw?filename=2021-02%20satellite-echoc.png){.ui .large .centered .image}
 
