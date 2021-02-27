@@ -4,7 +4,7 @@ slug: microblog
 
 # Srid’s microblog 🐜
 
-'tis like twitter, but better.
+A [microblog](https://en.wikipedia.org/wiki/Microblogging) for smaller updates.
 
 ## Recent microposts
 
