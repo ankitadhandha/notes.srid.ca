@@ -24,4 +24,4 @@ To figure out how to achieve:
 - Interaction and commenting
 - Good ol' email should work right now, but can we do better? Perhaps [piggyback on GitHub issues](https://utteranc.es/).
 
-[^swamp]: "*Twitter's conversational landscape is like the Everglades; it's a big nasty swamp, stinking pools everywhere and lots of alligators and snakes.*" ---[James Lindsay](https://www.youtube.com/watch?v=sAoguiwEHJg&feature=youtu.be) 
+[^swamp]: "*Twitter's conversational landscape is like the Everglades; it's a big nasty swamp, stinking pools everywhere and lots of alligators and snakes.*" ---[James Lindsay](https://www.youtube.com/watch?v=sAoguiwEHJg&feature=youtu.be), co-author of [How to Have Impossible Conversations](https://www.amazon.com/How-Have-Impossible-Conversations-Practical-ebook/dp/B07NL74KR2)
