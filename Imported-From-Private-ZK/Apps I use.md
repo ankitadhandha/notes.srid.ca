@@ -26,6 +26,7 @@ Programming Language | [[Haskell]], etc.                     | [statically-typed
 - [ ] Google Domains -> ??
 - [ ] Android -> ??
 - [ ] GitHub -> [radicle](https://radicle.xyz/)[^radicle] (for repo hosting, project management and discovery)
+- [ ] YouTube -> https://lbry.tv/ (for uploading videos)
 
 
 [^radicle]: Radicle holds a lot of promise, but it is still in too early a phase for switching for active projects.

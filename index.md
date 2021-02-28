@@ -7,7 +7,7 @@ Welcome to my homepage and microblog. You may contact me on Telegram at [t.me/sr
 [avatar]: https://srid.keybase.pub/me.jpeg
 [resume]: https://srid.keybase.pub/resume.pdf
 
-## Recent blog posts
+## Recent [[Blog]]# posts
 
 [[z:zettels?tag=blog/**&timeline]]
 
