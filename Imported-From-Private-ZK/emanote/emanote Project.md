@@ -6,6 +6,6 @@ slug: emanote
 
 Like [[ka Project]], architecture work done on emanote may carry over to neuron (see [[Hybrid rewrite-refactor]]).
 
-This website you are viewing is served by emanote. Emanote is in active development; you can access its source code [here](https://github.com/srid/emanote).
+Emanote is in active development (I use it for private Zettelkasten); you can access its source code [here](https://github.com/srid/emanote).
 
 (Started on #[[2021-01-26]])
