@@ -9,7 +9,7 @@ File Sync            | Syncthing                             | p2p Dropbox alter
 File Storage         | ProtonDrive                           | DeGoogle; encryption-at-rest; [sync, in future][pd-sync]
 File Sharing         | [IPFS]                                | p2p[^ipfspinning]
 Chat                 | [Element]                             | [decentralized moderation]
-Browser              | [Brave](https://brave.com/)           | DeGoogle; chromium-based; [end-to-end encrypted sync][brave-sync]; [decentralized-love](https://brave.com/ipfs-support/)
+Browser              | [Brave](https://brave.com/)           | DeGoogle; chromium-based; [end-to-end encrypted sync][brave-sync]; [decentralized-love](https://brave.com/ipfs-support/); [anti-censorship](https://www.theregister.com/2021/03/03/brave_buys_a_search_engine/)
 Password Manager     | [[Pass with GPG]]                     | plain-text; git; gpg
 OS                   | [[NixOS]] Linux  + GNOME              |
 Editor / IDE         | [[VSCode]]                            | UX; remote editing; extensions
