@@ -4,6 +4,10 @@ tags: [blog]
 date: 2020-03-25
 ---
 
+:::{.ui .message}
+If you wish to run NixOS container on a NixOS host, checkout NixOS's [declarative container management](https://nixos.org/manual/nixos/stable/#ch-containers) which may be a more appealing option than LXD.
+::: 
+
 Often I find myself needing a *pristine* Linux system for testing some program that is expected to work on a user's machine with an environment that is possibly quite different to mine. I could spin up a virtual machine, but that is too heavyweight. Alternatively, I could use Docker, but a Docker container is conceptually more of a process and less of a system. 
 
 Enter [LXD](https://linuxcontainers.org/lxd/introduction/), which advertises itself as offering a *"user experience similar to virtual machines but using Linux containers instead."* Or, as [u/Floppie7th](https://old.reddit.com/r/selfhosted/comments/b50h9t/docker_vs_lxd/) puts it, *"LXD makes 'pet' containers. Basically, VMs without the virtual hardware and extra kernel."* In other words, LXD allows us to spin up lightweight (Linux) VMs on a Linux machine, where one cares more about the separation of userland than hardware or kernel.
@@ -17,7 +21,7 @@ On NixOS, you can install LXD by adding `virtualisation.lxd.enable = true;` to y
 Let us run a bare Ubuntu container to get started:
 
 ```bash
-lxc launch ubuntu:18.04 pristine -c security.nesting=true
+lxc launch ubuntu:20.04 pristine -c security.nesting=true
 ```
 
 (Note that `security.nesting` flag is being enabled so that we may be able to install Nix later; you may leave it disabled if you would not be using Nix).
@@ -55,7 +59,7 @@ I use Nix to develop and install my programs, so the above is all I need to do i
 
 ## Running a NixOS container
 
-The official image server for LXD does not support NixOS. However, we can build our own using [nixos-generators](https://github.com/nix-community/nixos-generators). Let's wrap the commands in a script (call it [`buildLxcImage.sh`](https://github.com/srid/nix-config/blob/master/lxc/buildLxcImage.sh)):
+The official image server for LXD does not support NixOS. However, we can build our own using [nixos-generators](https://github.com/nix-community/nixos-generators). Let's wrap the commands in a script (call it [`buildLxcImage.sh`](https://github.com/srid/nix-config/blob/adce2673d6f2fdf6dfd9466612a71fda6da72961/device/lxc/buildLxcImage.sh)):
 
 ```bash
 #! /usr/bin/env nix-shell
@@ -71,7 +75,9 @@ lxc image delete nixos || echo true
 lxc image import --alias nixos ${METAIMG} ${IMG}
 ```
 
-You will need a `configuration.nix` (see [mine](https://github.com/srid/nix-config/blob/master/lxc/configuration.nix)) to build a NixOS image, using this script:
+You will need a `configuration.nix` (see [mine][lxc.nix]) to build a NixOS image, using this script:
+
+[lxc.nix]: https://github.com/srid/nix-config/blob/adce2673d6f2fdf6dfd9466612a71fda6da72961/device/lxc.nix
 
 ```bash
 # Builds the "nixos" lxc image
