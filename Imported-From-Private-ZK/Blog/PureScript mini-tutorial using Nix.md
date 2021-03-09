@@ -152,4 +152,8 @@ main = do
 And that's all it takes to get the initial feel for what it is like to develop
 PureScript as a Haskeller who comes from the world of Nix and GHCJS.
 
+## External links
+
+- [Getting Started with PureScript](https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md) (official guide)
+
 #[[Blog]] post created on #[[2020-04-16]], on the topic of #[[Haskell]], #[[PureScript]].
