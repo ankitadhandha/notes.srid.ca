@@ -38,7 +38,7 @@ See [the release notes](https://github.com/srid/neuron/releases/tag/1.0.0.0) for
 
 ## Cerveau
 
-[Cerveau](https://www.cerveau.app), the web app for neuron, is now officially out of public beta. Since the public beta (announced at [[Cerveau: a future-proof web app for notes]]), the following improvements were made:
+[Cerveau](https://www.cerveau.app), the web app for neuron, is now officially out of public beta. Since the public beta (announced at [[Cerveau, a future-proof web app for notes]]), the following improvements were made:
 
 1. **MathJax Live Preview** (see below)
 2. **WikiLink autocomplete** (see above)

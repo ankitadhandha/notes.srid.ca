@@ -10,7 +10,7 @@ date:  2020-07-28
 
 Previous versions of neuron used the [mmark](https://hackage.haskell.org/package/mmark) parser which advertises itself as being "strict". This prevented certain links from working as they caused the parser to fail. In version 0.6, I switched over to use [commonmark-hs](https://github.com/jgm/commonmark-hs), which is the Haskell implementation of the [**CommonMark** specification](https://commonmark.org/), written by the same author of Pandoc. Another reason for switching is that commonmark-hs and its extensions can be compiled to JavaScript via GHCJS[^ob], which is useful when reusing the Haskell code with the web app (see below).
 
-[^ob]: See [[Obelisk tutorial: Markdown preview with Reflex]] for a description of the development workflow involving writing Haskell on the frontend.
+[^ob]: See [[Obelisk tutorial, Markdown preview with Reflex]] for a description of the development workflow involving writing Haskell on the frontend.
 
 The commonmark-hs parser includes [a bunch of nifty **extensions**](https://github.com/jgm/commonmark-hs/tree/master/commonmark-extensions) that are all made available in neuron. 
 

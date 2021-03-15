@@ -37,7 +37,7 @@ sudo nixos-container start vpn
 And access its root shell as:
 
 ```sh
-sudo nixos-container root-shell vpn
+sudo nixos-container root-login vpn
 ```
 
 From within the root shell, you will want to login to your [ProtonVPN](https://protonvpn.com/) account:
