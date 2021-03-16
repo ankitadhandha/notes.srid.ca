@@ -7,10 +7,10 @@ Welcome to my little corner on the web! You may contact me on Telegram at [t.me/
 [avatar]: https://srid.keybase.pub/me.jpeg
 [resume]: https://srid.keybase.pub/resume.pdf
 
-## Recent [[Blog]]# posts
+## Recent [[Blog]]# posts <a href="blog.xml"><i class="rss icon"></i></a>
 
 [[z:zettels?tag=blog/**&timeline]]
 
-## Recent microposts from [[Srid's microblog]]#
+## Recent microposts from [[Srid's microblog]]# <a href="microblog.xml"><i class="rss icon"></i></a>
 
 [[z:zettels?tag=micro/**&timeline]]
