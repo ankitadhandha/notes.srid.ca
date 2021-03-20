@@ -47,4 +47,4 @@ This is my favourite feature. A zettelkasten is a directed graph, so I used Hask
 * [Zulip discussion](https://funprog.srid.ca/general/zettelkasten.html)
 * [Comments on Lobste.rs](https://lobste.rs/s/iuqcbo/announcing_neuron_zettelkasten_haskell)
 
-#[[Blog]] post created on #[[2020-03-09]], on the topic of #[[Neuron]].
+#[[Blog]] post created under #[[Neuron]].

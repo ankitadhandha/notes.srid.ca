@@ -178,4 +178,4 @@ Setting up CI for a Haskell project that already uses Nix is rather simple. If y
 
 [^sec]: If you are however using a *self-hosted* runner in Github Actions with public repos, read this [security warning](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-self-hosted-runners#self-hosted-runner-security-with-public-repositories).
 
-#[[Blog]] post created on #[[2019-12-03]], under #[[Haskell]]
+#[[Blog]] post created under #[[Haskell]]

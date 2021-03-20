@@ -74,4 +74,4 @@ The development version (not 0.4) supports Pandoc for Markdown. What this means 
 
 [Comments at lobste.rs](https://lobste.rs/s/kydg6q/neuron_0_4_zettelkasten_note_management)
 
-#[[Blog]] post created on #[[2020-05-13]], on the topic of #[[Neuron]].
+#[[Blog]] post created under #[[Neuron]].

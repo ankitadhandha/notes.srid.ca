@@ -78,4 +78,4 @@ If you enjoy using neuron and/or Cerveau, and would like to show your appreciati
 
 [^ghcide]: See [this blog post](https://mpickering.github.io/posts/2020-03-16-ghcide-reflex.html) which details using [[Reflex-FRP]] as build engine in ghcide.
 
-#[[Blog]] post created on #[[2020-10-08]], on the topic of #[[Neuron]].
+#[[Blog]] post created under #[[Neuron]].

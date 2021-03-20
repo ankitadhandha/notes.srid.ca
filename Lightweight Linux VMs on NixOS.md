@@ -103,4 +103,4 @@ lxc exec childnixos -- /run/current-system/sw/bin/su - srid  \
   -c 'tmux new-session -A -s main'
 ```
 
-#[[Blog]] post created on #[[2020-03-25]], on the topic of #[[NixOS]].
+#[[Blog]] post created under #[[NixOS]].

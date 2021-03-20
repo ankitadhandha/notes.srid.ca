@@ -58,4 +58,4 @@ Special thanks goes to the project sponsors, including: [Adam Bowen](https://git
 If you enjoy using neuron, please consider [sponsoring the project](https://github.com/sponsors/srid?o=sd&sc=t) on GitHub. 💖
 :::
 
-#[[Blog]] post created on #[[2020-07-28]], on the topic of #[[Neuron]].
+#[[Blog]] post created under #[[Neuron]].

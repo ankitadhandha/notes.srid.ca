@@ -38,4 +38,4 @@ My next computer, if I choose to buy one in ~3 years, would likely be similar to
 
 [^amd]: And if Thunderbolt wasn't a requirement, I'd easily go for a Thinkpad with AMD processor, such as the T14.
 
-#[[Blog]] post created on #[[2020-12-21]], on the topic of #[[X1C7]]
+#[[Blog]] post created under #[[X1C7]]

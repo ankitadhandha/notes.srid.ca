@@ -29,4 +29,4 @@ Just a note to myself as to the steps I normally follow when releasing a Haskell
 
 - [ ] Research a tool that automates much of the release process
 
-#[[Blog]] post created on #[[2020-04-08]], on the topic of #[[Haskell]].
+#[[Blog]] post created under #[[Haskell]].

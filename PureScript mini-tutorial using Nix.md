@@ -156,4 +156,4 @@ PureScript as a Haskeller who comes from the world of Nix and GHCJS.
 
 - [Getting Started with PureScript](https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md) (official guide)
 
-#[[Blog]] post created on #[[2020-04-16]], on the topic of #[[Haskell]], #[[PureScript]].
+#[[Blog]] post created under #[[Haskell]], #[[PureScript]].

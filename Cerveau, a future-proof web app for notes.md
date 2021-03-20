@@ -89,4 +89,4 @@ Special thanks goes to the recent [sponsors][sponsor], including
 [sponsor]: https://github.com/sponsors/srid
 [future-proof]: https://neuron.zettel.page/6f0f0bcc.html
 
-#[[Blog]] post created on #[[2020-09-03]], on the topic of #[[Neuron]], #[[Obelisk]].
+#[[Blog]] post created under #[[Neuron]], #[[Obelisk]].

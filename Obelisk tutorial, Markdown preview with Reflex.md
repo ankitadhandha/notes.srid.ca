@@ -182,4 +182,4 @@ You can even hack on commonmark-hs (see the Obelisk thunk interlude above), and 
 
 * Fully built version of it running at: <https://commonmark.srid.ca/>
 
-#[[Blog]] post created on #[[2020-05-08]], under #[[Obelisk]]
+#[[Blog]] post created under #[[Obelisk]]
