@@ -4,14 +4,14 @@ slug: now
 
 What's been occupying my mind lately:
 
-:::{.ui .large .basic .segment}
+:::{.sridca-popout .rounded .shadow-2xl .border-2 .border-solid .border-pink-400 .text-xl .mb-4}
 - **Explore F\#** for full-stack web development[^reflex] (see [ongoing learning map](https://srid.github.io/learning-fsharp/))
 	- [Feather project](https://github.com/srid/Feather)
 - **Entrepreneurial efforts** focused on helping small local businesses in Quebec City.
-- Rememorate and restore a [**peak experience**](http://www.actualfreedom.com.au/library/topics/pce.) I had back in 2008.
+- Rememorate and restore a [**peak experience**](http://www.actualfreedom.com.au/library/topics/pce.htm) I had back in 2008 in a orange-lit office atmosphere doing "mundane" work.
 :::
 
-:::{.ui .small .basic .segment}
+:::{.text-sm .text-gray-600}
 In semi- back burner, but to be picked up soon'ish[^24h]:
 
 - [[Neuron]] **2.0 release**
