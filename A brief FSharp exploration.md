@@ -28,6 +28,12 @@ What I found impressive:
 - I find it reassuring that I can rely on Microsoft to advance the full-stack web development more than one small consultancy (Obsidian Systems) with less than transparent open source development in the Haskell land. 
     - That said, I have some hopes that Tweag's [Asterius](https://github.com/tweag/asterius) catches up and facilitates a whole new ecosystem of full-stack development tools in Haskell.
 
-There are some things that are better in the Haskell ecosystem, though. For example, fast development reload workflow works super well in Haskell, thanks to [[ghcid]]. In .NET, you have `dotnet watch` - but that recompiles the whole project on every change leading to annoying delay; it made me [switch back](https://github.com/srid/Feather/issues/10) to using Haskell for DSL-based static sites, while live-reload is essential to get quick feedback on things like CSS changes. Also, having to work with OOP-based .NET libraries (written in C#) can be annoyance from a pure-FP perspective, though that can be dealt with by wrapping these libraries in a functional layer, and then using that in the F# program.
+There are some things that are better in the Haskell ecosystem, though. 
+
+- Fast development reload workflow works super well in Haskell, thanks to [[ghcid]]. In .NET, you have `dotnet watch` - but that recompiles the whole project on every change leading to annoying delay; it made me [switch back](https://github.com/srid/Feather/issues/10) to using Haskell for DSL-based static sites, while live-reload is essential to get quick feedback on things like CSS changes. 
+- Having to work with OOP-based .NET libraries (written in C#) can be an annoyance from a pure-FP perspective, though that can be dealt with by wrapping these libraries in a functional layer, and then using that in the F# program.
+- Overriding dependencies to use a fork in *straightforward* manner is virtually impossible. You have to create a local Nuget repo containing the binary of your overriden dependency. Whereas in Haskell world, one can easily use [[Nix]] to use a Git repo ([[Neuron]] [does this](https://github.com/srid/neuron/tree/master/dep)) as a package dependency.[^paket]
+
+[^paket]: No, [Paket's Git support](https://fsprojects.github.io/Paket/git-dependencies.html) does *not* support this.
 
 F# will continue to remain in my toolbox. If the aforementioned downsides are irrelevant, I might just use it in my next project over Haskell, which is still my go-to language today.
