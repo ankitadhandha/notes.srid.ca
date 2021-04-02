@@ -1,6 +1,6 @@
 ---
 slug: fsharp-exploration
-tags: [micro]
+tags: [blog]
 date: 2021-04-02
 ---
 
