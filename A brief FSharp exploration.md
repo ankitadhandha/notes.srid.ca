@@ -4,6 +4,8 @@ tags: [micro]
 date: 2021-04-02
 ---
 
+# A brief F\# exploration
+
 I have been writing full-stack web apps in [[Haskell]] using functional reactive programming ([[Reflex-FRP]]) for 3 years now. Curiosity stuck me as to find out what the FP languages other than Haskell had to offer in this area.
 
 My critieria were:
