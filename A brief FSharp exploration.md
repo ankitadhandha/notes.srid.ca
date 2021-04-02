@@ -20,7 +20,7 @@ That lead me to F#, a hybrid FP language ("hybrid" because it supports OOP, whic
 
 What I found impressive:
 
-- .NET 5.0 ecosystem is a pleasure to work with (and it works well on Linux with VSCode); and you can create cross-platform apps [more straightforwardly](https://github.com/srid/neuron/pull/586) than in Haskell. 
+- [.NET 5.0](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/#unified-platform-vision) ecosystem is a pleasure to work with (and it works well on Linux with VSCode); and you can create cross-platform apps [more straightforwardly](https://github.com/srid/neuron/pull/586) than in Haskell. 
     - If I were to start developing [[Neuron]] today, I probably would use F#.
 - Microsoft has a great full-stack web development story; and they support WebAssembly ([`Blazor`](https://srid.github.io/learning-fsharp/Blazor)), including a framework for real-time communication (`SignalR`).
     - In F#, [Bolero](https://fsbolero.io/) today is the go-to framework to make use of the above technology.
