@@ -26,7 +26,7 @@ That **lead me to F\#**, a hybrid FP language ("hybrid" because it supports OOP,
 - Microsoft has a great **full-stack** web development story; and they support WebAssembly ([`Blazor`](https://srid.github.io/learning-fsharp/Blazor)), including a framework for real-time communication (`SignalR`).
     - In F#, [Bolero](https://fsbolero.io/) today is the go-to framework to make use of the above technology.
 - I find it reassuring that I can **rely on Microsoft** to advance the full-stack web development more than one small consultancy (Obsidian Systems) with less than transparent open source development in the Haskell land. 
-    - That said, I have some hopes that Tweag's [Asterius](https://github.com/tweag/asterius) catches up and facilitates a whole new ecosystem of full-stack development tools in Haskell.
+    - That said, I have some hopes that Tweag's [Asterius](https://github.com/tweag/asterius) catches up, and the community is encouraged to proliferate a whole new ecosystem of full-stack development tools in Haskell not necessarily tied to Reflex.
 
 ## Some things are better in the Haskell ecosystem, though. 
 
