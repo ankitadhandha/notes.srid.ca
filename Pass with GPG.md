@@ -8,7 +8,9 @@ date: 2021-01-15
 
 ## Installing
 
-`pass` must be installed along `gpg`. On #[[NixOS]]:
+`pass` must be installed along `gpg`. On #[[NixOS]]:[^ubuntu]
+
+[^ubuntu]: On non-NixOS Linuxes, you may want to use the native package, as home-manager's [shell completion is broken](https://github.com/nix-community/home-manager/issues/1871).
 
 ```nix
 {
