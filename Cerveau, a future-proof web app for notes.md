@@ -1,6 +1,6 @@
 ---
 slug: cerveau-announce
-tags: [blog/neuron]
+tags: [blog/neuron, nojs]
 date: 2020-09-03
 ---
 

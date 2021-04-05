@@ -1,6 +1,6 @@
 ---
 slug: fsharp-exploration
-tags: [blog/fsharp]
+tags: [blog/fsharp, nojs]
 date: 2021-04-02
 ---
 

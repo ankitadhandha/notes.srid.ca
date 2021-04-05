@@ -1,6 +1,6 @@
 ---
 slug: purescript-nix
-tags: [blog]
+tags: [blog, nojs]
 date: 2020-04-16
 ---
 

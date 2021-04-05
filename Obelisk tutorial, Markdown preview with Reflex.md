@@ -1,6 +1,6 @@
 ---
 slug: obelisk-tutorial
-tags: [blog]
+tags: [blog, nojs]
 date: 2020-05-08
 ---
 
