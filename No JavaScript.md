@@ -2,7 +2,7 @@
 slug: nojs
 ---
 
-[[Haskell]] programmers like me who have gotten used to functional programming and static typing find JavaScript to be painful to use. We can't avoid JavaScript entirely -- there are some useful JS libraries out there in the world -- however for actual app development we can use either a transpiler or a Wasm-compiler. 
+[[Haskell]] programmers like me who have gotten used to functional programming and static typing find JavaScript to be painful to use. We can't avoid JavaScript entirely -- there are some useful JS libraries out there in the world -- however for actual app development we can continue using *safer* programming languages (see below) via either a JS-transpiler or a Wasm-compiler. 
 
 
 | Language    | Toolkits                                                | Notes                                                                     |
