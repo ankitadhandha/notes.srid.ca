@@ -60,11 +60,13 @@ Since I already use [keybase], I store my GPG key securely in [kbfs](https://boo
 gpg --export-secret-keys --armor "Sridhar Ratnakumar" > ~/keybase/private/srid/gpg/me.asc
 ```
 
-To import from another device:
+## Import GPG key
+
+To import a GPG key (either from Keybase backup or from the canonical ProtonMail key):
 
 ```sh
 gpg --import ~/keybase/private/srid/gpg/me.asc
-gpg --edit-key srid@srid.ca # and run `trust`
+gpg --edit-key <email> # and run `trust`
 ```
 
 ## Android support
