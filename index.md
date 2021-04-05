@@ -2,7 +2,9 @@
 
 ![avatar][avatar]{#avatar .ui .right .floated .tiny .circular .image}
 
-Welcome to my little corner on the web! You may contact me on Telegram at [t.me/sridca](https://t.me/sridca). To learn about my professional background, consult my [GitHub](https://github.com/srid) and [résumé][resume]. See [[In the forefront of my mind]] to see what I'm working on currently.
+Welcome to my little corner on the web![^z] You may contact me on Telegram at [t.me/sridca](https://t.me/sridca). To learn about my professional background, consult my [GitHub](https://github.com/srid) and [résumé][resume]. See [[In the forefront of my mind]] to see what I'm working on currently.
+
+[^z]: This entire website is a [[Zettelkasten]], and it is just a list of Markdown files ([view source](https://github.com/srid/notes.srid.ca)).
 
 [avatar]: https://srid.keybase.pub/me.jpeg
 [resume]: https://srid.keybase.pub/resume.pdf
