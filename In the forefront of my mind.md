@@ -5,8 +5,8 @@ slug: now
 What's been occupying my mind lately:
 
 :::{.sridca-popout .rounded .shadow-2xl .border-2 .border-solid .border-pink-400 .text-xl .mb-4}
-- **Explore F\#** for full-stack web development[^reflex] (see [ongoing learning map](https://srid.github.io/learning-fsharp/))
-	- [Feather project](https://github.com/srid/Feather)
+- **Explore Rust** for full-stack web development[^fsharp]
+- Increasingly favour open-source / decentralized apps; see [[Apps I use]]
 - **Entrepreneurial efforts** focused on helping small local businesses in Quebec City.
 - Rememorate and restore a [**peak experience**](http://www.actualfreedom.com.au/library/topics/pce.htm) I had back in 2008 in a orange-lit office atmosphere doing "mundane" work.
 :::
@@ -20,6 +20,6 @@ In semi- back burner, but to be picked up soon'ish[^24h]:
 	- I'm also open to greenfield or still-in-early-phase projects in F#. 
 :::
 
-[^reflex]: I've been using the [[Haskell]] library/framework [[Reflex-FRP]] for the past few years for developing full-stack & frontend apps in Haskell (eg: [[Cerveau, a future-proof web app for notes]]). The JavaScript transpilation story in Haskell however is not as rapidly and diversely spearheaded as I'd like. Also, I wished to find out what .NET (and more generally Microsoft's open source arm) had to offer that the Haskell ecosystem doesn't, in regards to both this domain and language ecosystem in general. F# is not as *purely* functional as Haskell, however it offers worthy trade-offs in the context of this exploration. I now will have two excellent FP languages in my toolkit; F# & Haskell, each with their own strengths.
+[^fsharp]: See [[A brief FSharp exploration]] for a similar exploration but on F\#.
 
 [^24h]: Don't you wish days had more than 24 hours?
