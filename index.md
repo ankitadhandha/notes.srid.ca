@@ -2,7 +2,7 @@
 
 ![avatar][avatar]{#avatar .ui .right .floated .tiny .circular .image}
 
-Welcome to my little corner on the web![^z] You may contact me on [Telegram] or [Fedivere]. To learn about my professional background, consult my [GitHub](https://github.com/srid) and [résumé][resume]. See [[In the forefront of my mind]] to see what I'm working on currently.
+Welcome to my little corner on the web![^z] You may contact me on [Telegram] or [Fediverse]. To learn about my professional background, consult my [GitHub](https://github.com/srid) and [résumé][resume]. See [[In the forefront of my mind]] to see what I'm working on currently.
 
 [Telegram]: https://t.me/sridca
 [Fediverse]: https://tribe.srid.ca/@srid
