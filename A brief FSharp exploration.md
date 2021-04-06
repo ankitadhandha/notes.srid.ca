@@ -14,7 +14,7 @@ I have been writing full-stack web apps in [[Haskell]] using functional reactive
 - Should compile to JS or Wasm
 - Must run natively on backend without nodeJS (rules out the likes of [[PureScript]])
 
-Haskell's GHCJS (esp. when used with [[Obelisk]]) satisfies all of this, but there is one pain-point: the future of GHCJS and Reflex seems to be in the hands of *one small company*, Obsidian Systems.
+Haskell's GHCJS (esp. when used with [[Obelisk]]) satisfies all of this, but there is one pain-point: the future of GHCJS (which has [not been updated](https://github.com/ghcjs/ghcjs) in a year) and Reflex seems to be in the hands of *one small company*, Obsidian Systems.
 
 That **lead me to F\#**, a hybrid FP language ("hybrid" because it supports OOP, which is essential to integrate with the rest of the .NET ecosystem). I've documented my learnings here: https://srid.github.io/learning-fsharp/
 
