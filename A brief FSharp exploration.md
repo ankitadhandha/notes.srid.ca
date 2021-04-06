@@ -37,3 +37,7 @@ That **lead me to F\#**, a hybrid FP language ("hybrid" because it supports OOP,
 [^paket]: No, [Paket's Git feature](https://fsprojects.github.io/Paket/git-dependencies.html) does *not* support this.
 
 **F# will continue to remain in my toolbox**. If the aforementioned downsides are irrelevant, I might just use it in my next project over Haskell, which is still my go-to language today.
+
+## See also
+
+- My F# posts on Fediverse: https://tribe.srid.ca/tags/fsharp 
