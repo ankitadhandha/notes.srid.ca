@@ -40,4 +40,4 @@ That **lead me to F\#**, a hybrid FP language ("hybrid" because it supports OOP,
 
 ## See also
 
-- My F# posts on Fediverse: https://tribe.srid.ca/tags/fsharp 
+- My F# posts on Fediverse: https://tribe.srid.ca/tag/fsharp 
