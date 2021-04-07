@@ -13,7 +13,7 @@ Browser              | [Brave](https://brave.com/)           | DeGoogle; chromiu
 Password Manager     | [[Pass with GPG]]                     | plain-text; git; gpg
 OS                   | [[NixOS]] Linux  + GNOME              |
 Editor / IDE         | [[VSCode]]                            | UX; remote editing; extensions
-Note taking          | [[Neuron]] & [[emanote Project]]      | Open source; future-proof
+Note taking          | [[Neuron]]                            | Open source; future-proof
 Programming Language | [[Haskell]], etc.                     | [statically-typed; FP](https://wiki.haskell.org/Why_Haskell_matters)
 
 [IPFS]: https://ipfs.io/
