@@ -14,7 +14,7 @@ Password Manager     | [[Pass with GPG]]                     | plain-text; git; 
 OS                   | [[NixOS]] Linux  + GNOME              |
 Editor / IDE         | [[VSCode]]                            | UX; remote editing; extensions
 Note taking          | [[Neuron]]                            | Open source; future-proof
-Programming Language | [[Haskell]], etc.                     | [statically-typed; FP](https://wiki.haskell.org/Why_Haskell_matters)
+Programming Language | [[Haskell]], [[No JavaScript]], etc.                     | [statically-typed; FP](https://wiki.haskell.org/Why_Haskell_matters)
 
 [IPFS]: https://ipfs.io/
 [Element]: https://element.io/
