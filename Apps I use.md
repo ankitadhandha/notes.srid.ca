@@ -21,14 +21,14 @@ Programming Language | [[Haskell]], etc.                     | [statically-typed
 [decentralized moderation]: https://matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors
 [pass]: https://www.passwordstore.org/
 
-## Yet to switch
+## To consider
 
 - [ ] Google Domains -> ??
-- [ ] Android -> ??
+- [ ] Android -> some Linux phone
 - [ ] GitHub -> [radicle](https://radicle.xyz/)[^radicle] (for repo hosting, project management and discovery)
-- [ ] YouTube -> https://lbry.tv/ (for uploading videos)
+- [ ] YouTube -> https://lbry.tv (use [TubeShift](https://www.tubeshift.info/) when watching on YouTube)
 
-[^radicle]: Radicle holds a lot of promise, but it is still in too early a phase for switching for active projects.
+[^radicle]: Radicle holds a lot of promise, but it is still in too early a phase for switching active projects.
 [^ipfspinning]: Needs a IPFS pinning service for [data permanence](https://docs.ipfs.io/concepts/persistence/). [IPFS Cluster](https://cluster.ipfs.io/) is one way to achieve this.
 
 [brave-sync]: https://support.brave.com/hc/en-us/articles/360021218111-How-do-I-set-up-Sync-
