@@ -11,7 +11,7 @@ I have been writing full-stack web apps in [[Haskell]] using functional reactive
 ## My critieria were:
 
 - Must be a functional programming language
-- Should compile to JS or Wasm
+- Should compile to JS or Wasm (cf. [[No JavaScript]])
 - Must run natively on backend without nodeJS (rules out the likes of [[PureScript]])
 
 Haskell's GHCJS (esp. when used with [[Obelisk]]) satisfies all of this, but there is one pain-point: the future of GHCJS (which has [not been updated](https://github.com/ghcjs/ghcjs) in a year) and Reflex seems to be in the hands of *one small company*, Obsidian Systems.
@@ -36,7 +36,7 @@ That **lead me to F\#**, a hybrid FP language ("hybrid" because it supports OOP,
 
 [^paket]: No, [Paket's Git feature](https://fsprojects.github.io/Paket/git-dependencies.html) does *not* support this.
 
-**F# will continue to remain in my toolbox**. If the aforementioned downsides are irrelevant, I might just use it in my next project over Haskell, which is still my go-to language today.
+**F# will continue to remain in my toolbox**. If the aforementioned downsides are addressed in some way, I might just pick it for some of the next projects over Haskell, which is still my go-to language today.
 
 ## See also
 
