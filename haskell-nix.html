@@ -58,27 +58,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-core.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
 
-<!-- 
-        Evaluate Tailwind CSS classes.
-        cf. https://github.com/tw-in-js/twind/discussions/161#discussioncomment-535632
--->
-<script 
-    crossorigin="anonymous" 
-    src="https://cdn.jsdelivr.net/combine/npm/twind/twind.umd.min.js,npm/twind/observe/observe.umd.min.js">
-</script>
-<script type="text/javascript">
-    twind.setup(
-      {
-        mode: twind.silent,  // Behave well with semantic UI classes
-        preflight: false,  // Don't resent semantic UI!
-        /* "plugins": {
-            "div.sridca-popout li": "mb-2"
-        }*/
-      }
-    );
-    twindObserve.observe(document.documentElement)
-</script>
-<!-- End of Twind script -->
 <!--replace-end-7--><!--replace-end-4--><!--replace-end-1--></head><body><div class="ui fluid container universe"><!--replace-start-2--><!--replace-start-3--><!--replace-start-6--><nav class="flipped tree deemphasized" id="zettel-uptree" style="transform-origin: 50%"><ul class="root"><li><ul><li><div class="forest-link"><span class="zettel-link-container"><span class="zettel-link"><a href="blog">Blog</a></span></span></div><ul><li><div class="forest-link"><span class="zettel-link-container"><span class="zettel-link"><a href=".">Sridhar Ratnakumar</a></span></span></div></li></ul></li><li><div class="forest-link"><span class="zettel-link-container"><span class="zettel-link"><a href="haskell">Haskell</a></span></span></div></li></ul></li></ul></nav><div class="ui text container" id="zettel-container" style="position: relative"><div class="zettel-view"><article class="ui raised attached segment zettel-content"><div class="pandoc"><h1 id="title-h1">Nix recipes for Haskellers</h1><p>The goal of this article is to get you comfortable managing simple <a href="https://www.haskell.org/">Haskell</a> programs and projects using the <strong>Nix</strong> package manager without going too much into the details.</p><h2 id="prerequisites">Prerequisites</h2><p>You are running either Linux or macOS, and have installed the <strong>Nix</strong> package manager using <a href="https://nixos.org/nix/">these instructions</a> <span data-nosnippet=""><sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></span>. You do <em>not</em> need to install anything else, including needing to install Haskell, as Nix will manage that for you.</p><h2 id="simple-programs">Simple programs</h2><p>Let us begin with the simplest Haskell program, try to compile and run it with the help of Nix.</p><pre><code class="haskell language-haskell">-- HelloWorld.hs
 module Main where
 
