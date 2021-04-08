@@ -5,10 +5,10 @@ slug: now
 What's been occupying my mind lately:
 
 :::{.sridca-popout .rounded .shadow-2xl .border-2 .border-solid .border-pink-400 .text-xl .mb-4}
-- **Explore Rust** for full-stack web development[^fsharp]
+- **Explore [[Rust]]** for full-stack web development[^fsharp]
 - Increasingly favour open-source / decentralized apps; see [[Apps I use]]
 - **Entrepreneurial efforts** focused on helping small local businesses in Quebec City.
-- Rememorate and restore a [**peak experience**](http://www.actualfreedom.com.au/library/topics/pce.htm) I had back in 2008 in a orange-lit office atmosphere doing "mundane" work.
+- Rememorate and restore a [**peak experience**](http://www.actualfreedom.com.au/library/topics/pce.htm) I had back in 2008.
 :::
 
 :::{.text-sm .text-gray-600}
