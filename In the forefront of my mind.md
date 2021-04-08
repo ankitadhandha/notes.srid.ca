@@ -23,3 +23,17 @@ In semi- back burner, but to be picked up soon'ish[^24h]:
 [^fsharp]: See [[A brief FSharp exploration]] for a similar exploration but on F\#.
 
 [^24h]: Don't you wish days had more than 24 hours?
+
+<script 
+    crossorigin="anonymous" 
+    src="https://cdn.jsdelivr.net/combine/npm/twind/twind.umd.min.js,npm/twind/observe/observe.umd.min.js">
+</script>
+<script type="text/javascript">
+    twind.setup(
+      {
+        mode: twind.silent,  // Behave well with semantic UI classes
+        preflight: false,
+      }
+    );
+    twindObserve.observe(document.documentElement)
+</script>
